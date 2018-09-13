@@ -14,3 +14,21 @@ div{
       padding: 10px;
       background-color: blue;
   }
+
+.roundedRect{
+  border-radius: 5px;
+}
+.bckBlue{
+  background -color: blue;
+}
+
+.bckRed{
+  background-color:red;
+}
+.slimborder{
+  border: solid 3px black;
+}
+
+.boxSizing{
+  box-sizing: border-box;
+}
